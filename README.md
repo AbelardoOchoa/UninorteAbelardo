@@ -1,6 +1,7 @@
 # UninorteAbelardo
 
-xdxd
+xdxdxd
+jelouuu jelouu. como estas amiguito. UwU
 
 ## How to use this repo
 
