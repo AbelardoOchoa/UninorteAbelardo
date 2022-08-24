@@ -9,7 +9,7 @@ jelouuu jelouu. como estas amiguito. UwU
 
 ## How to use this repo
 
-`print("XDXDXD")`
+`print("XDXD")`
 
 This is a code block
 
