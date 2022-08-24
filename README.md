@@ -12,6 +12,9 @@ This is a code block
 import pandas as pd
 
 pd.read_csv()
+
+a= input()
+print(a)
 ```
 - first element
     - sub element
