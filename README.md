@@ -1,6 +1,11 @@
 # UninorteAbelardo
 
+<<<<<<< HEAD
 xdxd uhlala
+=======
+xdxdxd
+jelouuu jelouu. como estas amiguito. UwU
+>>>>>>> 9b22863c5c6eaac1c17b4106ef4a1dfb47bdabb5
 
 ## How to use this repo
 
